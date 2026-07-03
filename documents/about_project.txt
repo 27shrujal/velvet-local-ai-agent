@@ -1,0 +1,7 @@
+Velvet Desktop AI Agent
+
+This project was created by Shrujal Satasiya. Velvet is a local desktop voice and text AI assistant built with Python, Ollama, LangChain, LangGraph, ChromaDB, and Retrieval-Augmented Generation (RAG).
+
+Velvet can answer natural-language questions, remember the current conversation, search local TXT, Markdown, PDF, and DOCX documents, calculate expressions, search Wikipedia, open approved desktop applications, open websites, and play requested YouTube content.
+
+The default local language model is qwen2.5:3b and the embedding model is nomic-embed-text. Both models run through Ollama, so normal LLM and RAG requests do not require a paid cloud API key.

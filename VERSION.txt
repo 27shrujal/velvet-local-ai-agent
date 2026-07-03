@@ -1,0 +1,2 @@
+Velvet AI Agent GUI - Voice Queue Fix
+Fixes Windows SAPI5 speaking only the first response by using one persistent TTS worker thread.
